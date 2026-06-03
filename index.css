@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-index {
+    background-image: url(assets/307453632_510744337694120_8839939963341817280_n.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
