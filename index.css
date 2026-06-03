@@ -10,3 +10,15 @@
     background-repeat: no-repeat;
     background-size: auto;
 }
+
+.menu-navegacao {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu-navegacao a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
